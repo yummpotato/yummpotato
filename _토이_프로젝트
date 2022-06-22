@@ -1,0 +1,23 @@
+[33mcommit 055bf5d5d5977fce6b2a410036b37db548b7192b[m[33m ([m[1;36mHEAD -> [m[1;32mgamza_farm[m[33m, [m[1;31morigin/gamza_farm[m[33m)[m
+Author: 감자 <hevlyoy26@naver.com>
+Date:   Wed Jun 22 13:38:19 2022 +0900
+
+    'farm.css'
+
+[33mcommit e2e096cf2f5c1a77f6b48e1a74abd9faf3a41a09[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: 감자 <hevlyoy26@naver.com>
+Date:   Wed Jun 22 13:40:16 2022 +0900
+
+    Delete gamza_farm
+
+[33mcommit a255bf089a55136365e1e8f0b7ce6a67a86db1dd[m
+Author: 감자 <hevlyoy26@naver.com>
+Date:   Wed Jun 22 13:39:36 2022 +0900
+
+    Create gamza_farm
+
+[33mcommit 81ab05deb2ff17dd5b0237eec81c4421d3320220[m
+Author: 감자 <hevlyoy26@naver.com>
+Date:   Wed Jun 22 13:32:08 2022 +0900
+
+    first commit

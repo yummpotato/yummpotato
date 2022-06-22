@@ -1,0 +1,14 @@
+* {background-color: rgb(252, 200, 132);
+    font-family: 'THEPure';
+     font-size: 1.1em;
+    }
+
+.login {position: relative;
+         text-align: end;
+         padding: 70px;
+         margin: 50px;
+         margin-right: 50%;
+         top: 100px;
+         bottom: 50%;
+        }
+    
