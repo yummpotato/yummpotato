@@ -1,6 +1,8 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/yummpotato/yummpotato/assets/90694063/5ae492d7-e674-4a86-8513-160a5e6053bd" />
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=ABOUT%20HYEJEONG&fontSize=70&animation=fadeIn)
+
 </div>
 
 <!--내용 부분-->
